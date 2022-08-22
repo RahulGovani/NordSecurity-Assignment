@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node run.js",
+    "test": "npx jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "puppeteer": "^16.1.1"
+  },
+  "devDependencies": {
+    "jasmine": "^4.3.0"
+  }
+}
